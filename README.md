@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:40c463,100:0e4429&height=200&section=header&text=viksly&fontColor=ffffff&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:40c463,100:0e4429&height=200&section=header&text=vik`s.ly&fontColor=ffffff&fontSize=40)
 
 [![Dev](https://skillicons.dev/icons?i=html,css,js,ts,git,react,py,nextjs,vite,supabase,github,vercel,netlify)](https://skillicons.dev)
 
